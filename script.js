@@ -11,7 +11,7 @@
    [1] 설정
    ───────────────────────────────────────── */
 
-const GEMINI_API_KEY = "여기에_너의_API키_붙여넣기";
+const GEMINI_API_KEY = "AIzaSyCxLA_aHwp4M164SJ6BEUzbaTu19W7GR1A";
 
 const SITUATIONS = {
   friend: { label: '친구와 대화', tone: '편하고 친근한 반말체' },
